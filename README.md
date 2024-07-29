@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 My name is Mikołaj Rudkowski 😁
 
+- 🌏 Front-End Developer based in Warsaw, Poland 🇵🇱 
 - 🌱 I’m currently learning React ⚛
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,vite,gulp)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,ps,webflow)](https://skillicons.dev)
