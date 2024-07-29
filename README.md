@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning React ⚛
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,vite,gulp)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,ps,webflow)](https://skillicons.dev)
+<br/>
 
 <!--
 **mRud3r/mRud3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
