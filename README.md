@@ -12,7 +12,7 @@ Hi! My name is Mikołaj Rudkowski 😄
 ### Socials
 
 <div id="badges">
-  <a href="https:linkedin.com/in/mikolaj-rudkowski-079aa4316">
+  <a href="https://www.linkedin.com/in/mikolaj-rudkowski-079aa4316/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
