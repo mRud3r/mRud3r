@@ -1,6 +1,6 @@
 # Hey There 👋🏻
 
-# 😁 About Me:
+## 😁 About Me:
 I’m Mikołaj, a frontend developer passionate about building modern and functional web applications. I specialize in React and Next.js, focusing on performance, accessibility, and delivering an excellent user experience.
 I’m constantly learning, exploring new technologies, and adopting best practices in frontend development.
 
